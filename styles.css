@@ -1,0 +1,137 @@
+/*.container-fluid{
+	background-color: #6c2e89;
+	height : 5rem;
+}
+
+.row{
+	background-color: #ff9232;
+	height: 4.7rem;
+}
+
+[class*="col-"]{
+	background-color: #00c3aa;
+	height: 4.2rem;
+	border: 2px solid rgba(0, 0, 0, 0.3);
+	}*/
+
+	/* ################ sign in ##################### */
+	/*body.signin-body {
+		background-color: #e6f2ff;
+	}
+
+	.container.signin-container{
+		margin-top: 8%;
+	}
+
+
+	.card.signin-card{
+		padding : 40px 0px 20px;
+		background-color: #f4f4f4;
+		box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+		-webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+		-moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+	}
+
+	img.signin-img{
+		padding: 0 2rem 2rem;
+		margin: auto;
+		display: block;
+		width: 70%;
+	}
+
+	form.signin-form{
+		max-width: 350px;	
+		margin: auto;
+	}
+
+	button.signin-btn{
+		color: #ffffff;
+		background-color: #d64829;
+		width: 100%;
+		margin-bottom: 1.2rem;
+	}
+
+	a.create-new-account{
+		font-size: 1.2rem;
+		text-align: center;
+		display: block;
+		margin-top: 15px;
+		}*/
+
+		/* ###########################  new page ######################### */
+
+
+		.jumbotron{
+			text-align: center;
+			background: none;
+		}
+
+		.sectionLight{
+			background-color: #eceeef;
+			padding: 2rem;
+
+		}
+
+		.sectionDark{
+			background-color: #cccccc;
+			padding: 2rem;
+		}
+
+		.coolStuffWrapper{
+			margin-top: 20px;
+		}
+
+		button.coolStuffBtn{
+			background-color: red;
+			color: #ffffff;
+			display: block;
+			margin: auto;
+		}
+
+		h5.modal-title{
+			margin: auto;
+
+		}
+
+		.modalFormWrapper{
+			padding: 2rem;			
+
+		}
+
+		.imgCenter{
+			display: block;
+			margin: auto;
+		}
+
+		.btnCenter{
+			display: block;
+			margin: auto;
+			margin-top: 15px;
+			margin-bottom: 20px;
+			width: 50%;
+		}
+
+		.footerImg{
+			padding: 10px
+		}
+
+		.fa{
+			margin: 10px;
+
+		}
+
+		.socialWrapper{
+			margin: auto;
+		}
+
+		.fa-facebook-square{
+			color: #3b5998;
+		}
+
+		.fa-google-plus{
+			color: #c32f10;
+		}
+
+		.fa-instagram{
+			color: #ffffff;
+		}
